@@ -8,7 +8,7 @@ El notebook desarrolla el proceso completo: exploración de datos, limpieza del 
 
 El sistema contempla dos etapas: entrenamiento y evaluación del modelo, y clasificación de nuevos textos.
 
-![Arquitectura del proyecto](arquitectura.png)
+![Arquitectura del sistema de clasificación de noticias](aquitectura.jpg)
 
 Durante el entrenamiento, `CountVectorizer` aprende el vocabulario del conjunto de entrenamiento y la regresión logística aprende a clasificar las noticias.
 
